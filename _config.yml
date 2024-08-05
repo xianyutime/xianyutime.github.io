@@ -22,11 +22,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "任老师"
   pronouns         : # "he/his"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "南理工老师，xxx大学毕业"
   location         : "江苏省南京市玄武区孝陵卫街200号"
-  employer         : "南京理工大学/Nanjing University of Science and Technology"
+  employer         : "南京理工大学/NJUST"
   uri              : # URL
   email            : "none@example.org" 
 
